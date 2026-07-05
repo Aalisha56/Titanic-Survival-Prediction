@@ -1,5 +1,12 @@
 # 🚢 Titanic Survival Prediction
 
+![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
 ## 📌 Project Overview
 
 This project analyzes the famous Titanic dataset and builds a Machine Learning model to predict whether a passenger survived based on features such as age, gender, passenger class, fare, and embarkation point. The project demonstrates the complete data science workflow from data preprocessing to model evaluation.
