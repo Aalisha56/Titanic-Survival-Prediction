@@ -8,6 +8,21 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 
 ## 📌 Project Overview
+## 📑 Table of Contents
+
+- Project Overview
+- Objective
+- Technologies Used
+- Dataset
+- Data Preprocessing
+- Exploratory Data Analysis
+- Machine Learning Model
+- Model Performance
+- Key Findings
+- Project Visualizations
+- Project Structure
+- Skills Demonstrated
+- Conclusion
 
 This project analyzes the famous Titanic dataset and builds a Machine Learning model to predict whether a passenger survived based on features such as age, gender, passenger class, fare, and embarkation point. The project demonstrates the complete data science workflow from data preprocessing to model evaluation.
 
