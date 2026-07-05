@@ -102,28 +102,27 @@ Evaluation Metrics:
 
 ### Survival Count Plot
 
-![Survival Count](images/Survival Count Plot.PNG)
+![Survival Count Plot](images/survival_count_plot.png)
 
 ### Gender vs Survival
 
-![Gender vs Survival](images/Gender vs Survival.PNG)
+![Gender vs Survival](images/gender_vs_survival.png)
 
 ### Passenger Class vs Survival
 
-![Passenger Class](images/Passenger Class vs Survival.PNG)
+![Passenger Class vs Survival](images/passenger_class_vs_survival.png)
 
 ### Age Distribution
 
-![Age Distribution](images/Age Distribution.PNG)
+![Age Distribution](images/age_distribution.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/Confusion Matrix.PNG)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ### Classification Report
 
-![Classification Report](images/Classification Report.PNG)
-
+![Classification Report](images/classification_report.png)
 ---
 
 ## 📁 Project Structure
