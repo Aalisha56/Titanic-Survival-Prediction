@@ -1,4 +1,7 @@
 # 🚢 Titanic Survival Prediction
+<p align="">
+  <img src="images/banner.png" width="50%">
+</p>
 
 ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
