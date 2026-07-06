@@ -206,7 +206,18 @@ jupyter notebook
 ```
 
 5. Open `Titanic_Survival_Prediction.ipynb` and run all the cells.
-   
+
+## 🔮 Future Improvements
+
+This project can be enhanced in several ways:
+
+- Compare the performance of Logistic Regression with other machine learning models such as Random Forest, Decision Tree, and XGBoost.
+- Perform hyperparameter tuning to improve model accuracy.
+- Build an interactive web application using Streamlit.
+- Deploy the trained model online for real-time predictions.
+- Add more feature engineering techniques to improve prediction performance.
+- Create an interactive dashboard to visualize passenger survival insights.
+
 ## ✅ Conclusion
 
 This project demonstrates a complete Machine Learning workflow using the Titanic dataset. After cleaning and analyzing the data, a Logistic Regression model was trained to predict passenger survival with an accuracy of approximately **80%**. The project highlights how data preprocessing, visualization, and model evaluation contribute to building an effective predictive model.
