@@ -179,6 +179,34 @@ Titanic-Survival-Prediction/
 
 ---
 
+## 🚀 How to Run
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/Aalisha56/Titanic-Survival-Prediction.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd Titanic-Survival-Prediction
+```
+
+3. Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+5. Open `Titanic_Survival_Prediction.ipynb` and run all the cells.
+   
 ## ✅ Conclusion
 
 This project demonstrates a complete Machine Learning workflow using the Titanic dataset. After cleaning and analyzing the data, a Logistic Regression model was trained to predict passenger survival with an accuracy of approximately **80%**. The project highlights how data preprocessing, visualization, and model evaluation contribute to building an effective predictive model.
